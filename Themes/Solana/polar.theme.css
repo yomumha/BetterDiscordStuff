@@ -1,5 +1,5 @@
 /**
- * @name polar
+ * @name polar123
  * @author Disease#5663
  * @version 1.0.11
  * @description macOS with barely any customization.
@@ -36,19 +36,19 @@
   --window-opacity: 60%;
   --window-blur: 0;
   --window-friends-blur: 0;
-  --window-margin: 24;
-  --window-margin-left: 0;
-  --window-border-radius: 11px;
+  --window-margin: 23;
+  --window-margin-left: 8;
+  --window-border-radius: 12px;
   --window-background-lightness: 1;
   --window-accent-tint-strength: 48%;
   --chat-bubble: 0;
   --text-link-hue: 201;
   --chat-text-brightness: 0;
-  --home-icon: transparent;
+  --home-icon: url('https://i.imgur.com/bMpwWNN.png');
   --favorites-icon: url('https://i.imgur.com/a07lTLZ.png');
   --dock-blur: 0; /* Blur intensity of the dock. */
-  --dock-border-radius: -0.62;
-  --sidebar-width: 200px;
+  --dock-border-radius: 0;
+  --sidebar-width: 229px;
   --members-width: 222px;
   --sidebar-text-brightness: 0;
   --background-floating-blur: 20px;
